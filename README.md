@@ -4,7 +4,7 @@
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._
 
-Current version: **1.5.0**
+Current version: **1.5.1**
 Author homepage: [gophpbb.com][author]
 
 ## Table Of Contents
@@ -96,8 +96,12 @@ _**Note:** To check if you have the latest version installed on your forum navig
 
 1. Log-in to the **ACP**, go to **Extensions > Coreframe** and make sure **Dev Mode** is enabled (red).
 
-2. Repeat the steps for **[Upload](#upload)**, overwriting your old version.
+2. In the **ACP**, go to **Customise > Manage Extensions** and disable **Coreframe** by clicking on the **Disable** button for **Coreframe**.
+
+3. Repeat the steps for **[Upload](#upload)**, overwriting your old version.
 _**Note:** You should back-up your `eles-child/theme` folder._
+
+2. In the **ACP**, enable back the **Coreframe** extension, as explained in **step 3 of [Install](#install)**.
 
 ## Customization
 Before you begin with any customization, you'll want to make sure [**Dev Mode**](#dev-mode)* is enabled.
