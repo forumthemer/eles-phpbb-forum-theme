@@ -4,6 +4,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
   
 ## [1.5.3] - 2016-08-02  
 ### Patch release  
+**REV** - The product documentation and the changelog are now public on GitHub.  
 **FIX** - Fixed archive files not containing the latest version.  
   
 ## [1.5.2] - 2016-08-02  
@@ -19,6 +20,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [1.5.0] - 2016-07-31  
 ### Feature release  
 **ADD** - Added option to select the pages where the sidebar is visible.  
+  
 **ADD** - Added support for the following third party extensions:  
   
 + reCAPTCHA 2.0 Extension  
