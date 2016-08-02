@@ -19,7 +19,6 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [1.5.0] - 2016-07-31  
 ### Feature release  
 **ADD** - Added option to select the pages where the sidebar is visible.  
-  
 **ADD** - Added support for the following third party extensions:  
   
 + reCAPTCHA 2.0 Extension  
