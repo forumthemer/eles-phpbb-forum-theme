@@ -1,6 +1,18 @@
-# Changelog<br>
+# Eles Changelog
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
+
+### [1.6.0] - 23-AUG-2016 - Feature release
+**ADD** - Added more pages to the "Pages to show the sidebar" option.<br>
+**REV** - Improved typography on Pages added with Pages Extension.<br>
+**REV** - Private messages design improved on wide screens.<br>
+**FIX** - [Issue 9](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/9) -
+Sidebar is no displayed.<br>
+**FIX** - [Issue 12](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/12) -
+Fixed height of the first panel on private messages page.<br>
+**FIX** - Fixed styling for links in the Links List widget.<br>
+**FIX** - Fixed back to top icons on FAQ page.<br>
+
 
 ### [1.5.4] - 07-AUG-2016 - Patch release
 **REV** - [Issue 6](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/6) -

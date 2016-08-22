@@ -4,7 +4,7 @@
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._<br>
 
-Current version: **1.5.4**<br>
+Current version: **1.6.0**<br>
 Author homepage: [gophpbb.com][author]<br>
 
 ## Table Of Contents
@@ -349,13 +349,14 @@ Extensions support is a continuous task and you are encouraged to create a new i
 **Disclaimer:** Customizing and implementing the extensions is not part of the item support!
 
 The term "supported extensions" confirms that Eles comes with built-in styling rules for these extensions, which should work inside the theme without breaking the layout.<br>
-It also confirms the compatibility was tested.
+
+It also confirms the extensions were installed and tested on our development and testing environments.
 
 ## License
 The **ELES Theme** is licensed under the [Envato Standard Regular License][tf-license].
 
 **Copyright Notice**<br>
-Copyright &copy; 2015-2016 gophpbb<br>
+Copyright &copy; 2015-2016 [gophpbb][author] / [forumthemer][contact].<br>
 
 This software is protected by international copyright laws.<br>
 Any unauthorized use or attempts to reverse-engineer, copy or implement parts of this intellectual property are strictly prohibited.<br>
