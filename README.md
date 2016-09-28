@@ -38,6 +38,7 @@ Author homepage: [gophpbb.com][author]<br>
 	- [Using the eles-child Theme](#using-the-eles-child-theme)
 	- [Editing the Source Code](#editing-the-source-code)
 - [Supported Extensions](#supported-extensions)
+- [Bonus Content](#bonus-content)
 - [License](#license)
 
 <!-- /MarkdownTOC -->
@@ -352,6 +353,9 @@ The term "supported extensions" confirms that Eles comes with built-in styling r
 
 It also confirms the extensions were installed and tested on our development and testing environments.
 
+## Bonus Content
+After installing the theme and the extension on your forum you can proceed to [add the color-toggle button][toggle-color-theme] from the demo to the sidebar of your Eles powered forum.
+
 ## License
 The **ELES Theme** is licensed under the [Envato Standard Regular License][tf-license].
 
@@ -364,41 +368,42 @@ Any unauthorized use or attempts to reverse-engineer, copy or implement parts of
 **Limitation of Liability**<br>
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.<br>
 
-[contact]: http://themeforest.net/user/forumthemer?ref=forumthemer
 [author]: http://www.gophpbb.com
-[phpbb-docs]: https://www.phpbb.com/support/docs/en/3.1/ug/quickstart/
-[download]: http://themeforest.net/downloads?ref=forumthemer
-[tf-license]: http://themeforest.net/licenses/standard?ref=forumthemer
-[g-fonts]: https://www.google.com/fonts
-[install-theme]: img/install-theme.png
-[install-ext]: img/install-extension.png
+[contact]: http://themeforest.net/user/forumthemer?ref=forumthemer
 [dev-mode]: img/dev-mode.png
+[download]: http://themeforest.net/downloads?ref=forumthemer
+[g-fonts]: https://www.google.com/fonts
+[install-ext]: img/install-extension.png
+[install-theme]: img/install-theme.png
 [menu-items]: img/menus.png
-[widgets]: img/widgets.png
+[phpbb-docs]: https://www.phpbb.com/support/docs/en/3.1/ug/quickstart/
+[tf-license]: http://themeforest.net/licenses/standard?ref=forumthemer
+[toggle-color-theme]: toggle-color-theme.md
 [widget-areas]: img/widget-areas.png
+[widgets]: img/widgets.png
 
-[ext-boardann]: https://www.phpbb.com/customise/db/extension/boardannouncements/
-[ext-pages]: https://www.phpbb.com/customise/db/extension/pages/
-[ext-brules]: https://www.phpbb.com/customise/db/extension/boardrules/
-[ext-agroups]: https://www.phpbb.com/customise/db/extension/auto_groups/
-[ext-ganalytics]: https://www.phpbb.com/customise/db/extension/googleanalytics/
-[ext-aboutus]: https://www.phpbb.com/customise/db/extension/about_us/
 [ext-abbcode]: https://www.phpbb.com/customise/db/extension/advanced_bbcode_box/
-[ext-topicprev]: https://www.phpbb.com/customise/db/extension/topicpreview/
-[ext-qulogin]: https://www.phpbb.com/customise/db/extension/quick_login/
-[ext-avatarlp]: https://www.phpbb.com/customise/db/extension/avatar_in_last_post/
-[ext-shareon]: https://www.phpbb.com/customise/db/extension/shareon/
+[ext-aboutus]: https://www.phpbb.com/customise/db/extension/about_us/
+[ext-agroups]: https://www.phpbb.com/customise/db/extension/auto_groups/
 [ext-asmilies]: https://github.com/Tacitus89/ajaxsmilies
-[ext-postlove]: https://github.com/satanasov/postlove
-[ext-topicads]: http://www.phpbb3bbcodes.com/viewtopic.php?f=61&t=2575
-[ext-recents]: https://www.phpbb.com/customise/db/extension/recent_topics_2/
-[ext-quedit]: https://www.phpbb.com/customise/db/extension/quickedit/
+[ext-avatarlp]: https://www.phpbb.com/customise/db/extension/avatar_in_last_post/
+[ext-boardann]: https://www.phpbb.com/customise/db/extension/boardannouncements/
+[ext-brules]: https://www.phpbb.com/customise/db/extension/boardrules/
 [ext-elist]: https://www.phpbb.com/customise/db/extension/email_list/
 [ext-elonw]: https://www.phpbb.com/customise/db/extension/elonw/
-[ext-ssitemap]: https://www.phpbb.com/community/viewtopic.php?f=456&t=2269621
-[ext-seometa]: https://www.phpbb.com/customise/db/extension/seo_meta_description/
+[ext-evmedals]: https://www.phpbb.com/community/viewtopic.php?f=456&t=2215511
+[ext-ganalytics]: https://www.phpbb.com/customise/db/extension/googleanalytics/
 [ext-mchat]: https://www.phpbb.com/community/viewtopic.php?f=456&t=2281451
 [ext-newspage]: https://www.phpbb.com/customise/db/extension/nickvergessen_newspage/
-[ext-evmedals]: https://www.phpbb.com/community/viewtopic.php?f=456&t=2215511
-[ext-shoutbox]: https://www.phpbb.com/customise/db/extension/ajax_shoutbox/
 [ext-nocaptcha]: https://github.com/gothick/phpbb-ext-recaptcha2
+[ext-pages]: https://www.phpbb.com/customise/db/extension/pages/
+[ext-postlove]: https://github.com/satanasov/postlove
+[ext-quedit]: https://www.phpbb.com/customise/db/extension/quickedit/
+[ext-qulogin]: https://www.phpbb.com/customise/db/extension/quick_login/
+[ext-recents]: https://www.phpbb.com/customise/db/extension/recent_topics_2/
+[ext-seometa]: https://www.phpbb.com/customise/db/extension/seo_meta_description/
+[ext-shareon]: https://www.phpbb.com/customise/db/extension/shareon/
+[ext-shoutbox]: https://www.phpbb.com/customise/db/extension/ajax_shoutbox/
+[ext-ssitemap]: https://www.phpbb.com/community/viewtopic.php?f=456&t=2269621
+[ext-topicads]: http://www.phpbb3bbcodes.com/viewtopic.php?f=61&t=2575
+[ext-topicprev]: https://www.phpbb.com/customise/db/extension/topicpreview/
