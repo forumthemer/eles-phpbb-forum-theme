@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [1.6.1] - 05-DEC-2016 - Patch Release
+**UPG** - Upgraded to phpBB3.1.10<br>
+
+
 ### [1.6.0] - 23-AUG-2016 - Feature release
 **ADD** - Added more pages to the "Pages to show the sidebar" option.<br>
 **REV** - Improved typography on Pages added with Pages Extension.<br>

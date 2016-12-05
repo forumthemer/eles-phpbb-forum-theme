@@ -4,7 +4,7 @@
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._<br>
 
-Current version: **1.6.0**<br>
+Current version: **1.6.1**<br>
 Author homepage: [gophpbb.com][author]<br>
 
 ## Table Of Contents
