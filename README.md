@@ -4,7 +4,7 @@
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._<br>
 
-Current version: **1.6.1**<br>
+Current version: **2.0.0**<br>
 Author homepage: [gophpbb.com][author]<br>
 
 ## Table Of Contents
@@ -224,7 +224,7 @@ _Please note that your custom theme will inherit the parent type you selected fi
 
 #### Header Effects
 
-1. **Content overlays header** -- Enable or disable the header offset styling on the home page.
+1. **3D Page effect** -- toggle the 3d effect on the page content.
 
 2. **Header animation VFX** --Enable or disable the particles VFX effect on the header image. Although the code is optimized to make the effect consume as less resources as possible, it is still possible to experience a slow speed on the page when the animation is visible. In that case it is a good idea to disable it.
 

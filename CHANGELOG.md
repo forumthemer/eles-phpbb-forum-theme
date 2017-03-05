@@ -2,6 +2,30 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.0.0] - 05-MAR-2017 - Feature Release
+**UPG** - Upgraded to phpBB3.2.0<br>
+**ADD** - [Issue 15](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/15) - Added 2 more custom code widgets.<br>
+**REV** - [Issue 5](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/5) - 3D page effect now applies on all pages.<br>
+**ADD** - Added coreframe menu item under user dropdown.<br>
+**REV** - Restyled the top and bottom navbars.<br>
+**REV** - Restyled the active breadcrumb style.<br>
+**REV** - Added fade transition to menu bar reveal animation.<br>
+**REV** - Darkened footer background colors.<br>
+**REV** - Changed default header gradient.<br>
+**REV** - Updated style to permalinks.<br>
+**REV** - Moved author details under the contact button on post view.<br>
+**REV** - Tweaked blockquote style.<br>
+**REV** - Moved ACP & MCP menu items under the dropdown.<br>
+**REV** - Tweaked scrollbars in dropdowns.<br>
+**REV** - Added separator before ACP & MCP menu items.<br>
+**REV** - Moved 'mark forums as read' button under forum list.<br>
+**REV** - Redesigned profile page.<br>
+**REV** - Added down caret to user dropdown.<br>
+**FIX** - Fixed devmode switch colors.<br>
+**FIX** - [Issue 20](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/20) - 
+Background coming through popup.<br>
+
+
 ### [1.6.1] - 05-DEC-2016 - Patch Release
 **UPG** - Upgraded to phpBB3.1.10<br>
 
