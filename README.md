@@ -1,4 +1,4 @@
-# Eles phpBB3.1 Theme Documentation
+# Eles phpBB3.1 & phpBB3.2 Theme Documentation
 >Hello there! Thank you for your interest in my theme!<br>
 
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
