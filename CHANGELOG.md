@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.1.0] - 06-MAR-2017 - Feature Release
+**ADD** - Added support for entering icon name of menu items.<br>
+**UPG** - Requires phpBB3.2.0 or higher.<br>
+**REV** - [Issue 7](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/7) - Online indicator moves with profile info.<br>
+**FIX** - Fixed avatars not showing on the left side.<br>
+**FIX** - Fixed custom menu items not showing.<br>
+**FIX** - Fixed registration page not using new recaptcha.<br>
+
+
 ### [2.0.0] - 05-MAR-2017 - Feature Release
 **UPG** - Upgraded to phpBB3.2.0<br>
 **ADD** - [Issue 15](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/15) - Added 2 more custom code widgets.<br>
