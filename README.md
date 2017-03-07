@@ -1,10 +1,10 @@
-# Eles phpBB3.1 Theme Documentation
+# Eles phpBB3.2 Theme Documentation
 >Hello there! Thank you for your interest in my theme!<br>
 
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._<br>
 
-Current version: **2.1.0**<br>
+Current version: **2.1.1**<br>
 Author homepage: [gophpbb.com][author]<br>
 
 ## Table Of Contents
@@ -45,7 +45,7 @@ Author homepage: [gophpbb.com][author]<br>
 
 
 ## Foreword
-This documentation assumes you are familiar with the phpBB3.1 forum software.<br>
+This documentation assumes you are familiar with the phpBB3.2 forum software.<br>
 You may find it useful to consult the [**phpBB documentation**][phpbb-docs] if you are new to phpBB.<br>
 
 ## Getting Started
@@ -315,7 +315,7 @@ You can customize all HTML template files and the stylesheet files.<br>
 Do not upload the folders `eles-child/node_modules/` and `eles-child/theme/vendor/` to your server! These are only needed for development.
 
 ## Supported Extensions
-The Eles theme is compatible with a many phpBB 3.1 third party extensions which you can add to your forum. Extensions are a great way to add more features to your forum and make it even more user-friendly.<br>
+The Eles theme is compatible with a many phpBB 3.2 third party extensions which you can add to your forum. Extensions are a great way to add more features to your forum and make it even more user-friendly.<br>
 
 Extensions support is a continuous task and you are encouraged to create a new issue in our [issue tracker](https://github.com/forumthemer/eles-phpbb-forum-theme/issues) if your favorite extension is not yet supported by Eles.<br>
 
@@ -345,7 +345,6 @@ Extensions support is a continuous task and you are encouraged to create a new i
 + [phpBB 3.1 - NV Newspage Extension][ext-newspage] by nickvergessen
 + [phpBB 3.1 Event medals][ext-evmedals] by satanasov
 + [Ajax Shoutbox][ext-shoutbox] by paul999
-+ [reCAPTCHA 2.0 Extension][ext-nocaptcha] by gothick
 
 **Disclaimer:** Customizing and implementing the extensions is not part of the item support!
 
@@ -376,7 +375,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [install-ext]: img/install-extension.png
 [install-theme]: img/install-theme.png
 [menu-items]: img/menus.png
-[phpbb-docs]: https://www.phpbb.com/support/docs/en/3.1/ug/quickstart/
+[phpbb-docs]: https://www.phpbb.com/support/docs/en/3.2/ug/quickstart/
 [tf-license]: http://themeforest.net/licenses/standard?ref=forumthemer
 [toggle-color-theme]: toggle-color-theme.md
 [widget-areas]: img/widget-areas.png

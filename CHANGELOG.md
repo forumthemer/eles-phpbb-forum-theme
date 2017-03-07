@@ -2,6 +2,15 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.1.1] - 07-MAR-2017 - Patch Release
+**FIX** - Menu items without icon don't include empty space.<br>
+**FIX** - Fixed fatal error when accessing coreframe.<br>
+**FIX** - Fixed footer links color.<br>
+**FIX** - Fixed social links color.<br>
+**FIX** - Fixed rounded navbar border showing in full-width layout.<br>
+**REV** - Tweaked icons hover effect.<br>
+
+
 ### [2.1.0] - 06-MAR-2017 - Feature Release
 **ADD** - Added support for entering icon name of menu items.<br>
 **UPG** - Requires phpBB3.2.0 or higher.<br>
@@ -31,7 +40,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 **REV** - Redesigned profile page.<br>
 **REV** - Added down caret to user dropdown.<br>
 **FIX** - Fixed devmode switch colors.<br>
-**FIX** - [Issue 20](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/20) - 
+**FIX** - [Issue 20](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/20) -
 Background coming through popup.<br>
 
 
