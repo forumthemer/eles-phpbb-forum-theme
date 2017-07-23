@@ -2,6 +2,9 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.2.2] - 23-JUL-2017 - Patch Release
+**FIX** - Fixed page names for coreframe extension in acp
+
 ### [2.2.1] - 23-JUL-2017 - Patch Release
 **FIX** - Fixed an issue where the previous version was resulting in an error
 
