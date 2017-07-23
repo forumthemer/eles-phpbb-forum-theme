@@ -2,6 +2,18 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.2.1] - 23-JUL-2017 - Patch Release
+**FIX** - Fixed an issue where the previous version was resulting in an error
+
+
+### [2.2.0] - 21-JUL-2017 - Feature Release
+**ADD** - [Issue 29](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/29) - Login, Signup and Profile pages are no longer showing ads<br>
+**FIX** - [Issue 27](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/27) - Recent Topics for phpBB 3.2 are now at the top<br>
+**FIX** - [Issue 19](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/19) - Recents widget no longer showing topics for unauthorized users<br>
+**FIX** - [Issue 26](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/26) - Highlighted breadcrumbs are now using style colors<br>
+**REV** - [Issue 24](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/24) - Recents widget show username color (from user group)<br>
+
+
 ### [2.1.1] - 07-MAR-2017 - Patch Release
 **FIX** - Menu items without icon don't include empty space.<br>
 **FIX** - Fixed fatal error when accessing coreframe.<br>
