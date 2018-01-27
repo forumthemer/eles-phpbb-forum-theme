@@ -2,11 +2,29 @@
 All notable changes to this project will be documented in this file.<br>
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+### [2.4.0] - 27-JAN-2018 - Feature Release
+**FIX** - Removed comma in subforums list<br>
+**REV** - Removed post author from forums list<br>
+**REV** - Redesigned subforums list items with and add hover animations<br>
+**REV** - Improved typography<br>
+
+
+### [2.3.0] - 26-JAN-2018 - Feature Release
+**UPG** - Upgraded to phpBB3.2.2<br>
+**FIX** - [Issue 41](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/41) - Favicon setting can be saved<br>
+**FIX** - [Issue 36](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/36) - Custom css code and styling on coreframe is fixed<br>
+**FIX** - [Issue 32](https://github.com/forumthemer/eles-phpbb-forum-theme/issues/32) - Only admins can see the link to coreframe<br>
+**REV** - Improved templating by moving more files to the theme instead of extension.<br>
+**REV** - Main theme configuration can now be adjusted using custom code in coreframe.<br>
+**REV** - Improved build process to facilitate frequent releases.<br>
+
+
 ### [2.2.2] - 23-JUL-2017 - Patch Release
-**FIX** - Fixed page names for coreframe extension in acp
+**FIX** - Fixed page names for coreframe extension in acp<br>
+
 
 ### [2.2.1] - 23-JUL-2017 - Patch Release
-**FIX** - Fixed an issue where the previous version was resulting in an error
+**FIX** - Fixed an issue where the previous version was resulting in an error<br>
 
 
 ### [2.2.0] - 21-JUL-2017 - Feature Release

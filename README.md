@@ -4,8 +4,8 @@
 >If you have any questions that are beyond the scope of this help file, please feel free to email via my [user page contact form][contact] on ThemeForest.
 >_-- The author._  
 
-Current version: **2.2.2**  
-Author homepage: [gophpbb.com][author]  
+Current version: **2.4.0**  
+Author homepage: [bbthemr.com][author]  
 
 ## Table Of Contents
 <!-- MarkdownTOC -->
@@ -359,7 +359,7 @@ After installing the theme and the extension on your forum you can proceed to [a
 The **ELES Theme** is licensed under the [Envato Standard Regular License][tf-license].
 
 **Copyright Notice**  
-Copyright &copy; 2015-2016 [gophpbb][author] / [forumthemer][contact].  
+Copyright &copy; 2015-2016 [bbthemr][author] / [forumthemer][contact].  
 
 This software is protected by international copyright laws.  
 Any unauthorized use or attempts to reverse-engineer, copy or implement parts of this intellectual property are strictly prohibited.  
@@ -367,7 +367,7 @@ Any unauthorized use or attempts to reverse-engineer, copy or implement parts of
 **Limitation of Liability**  
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.  
 
-[author]: http://www.gophpbb.com
+[author]: http://www.bbthemr.com
 [contact]: http://themeforest.net/user/forumthemer?ref=forumthemer
 [dev-mode]: img/dev-mode.png
 [download]: http://themeforest.net/downloads?ref=forumthemer
